@@ -44,3 +44,14 @@
 .info-item{
     padding: 0px 20px;
 }
+.load-more{
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    transition: .2s linear;
+    background: #0B63F6;
+}
+.load-more:hover{
+    box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;
+}
